@@ -1,5 +1,5 @@
 # 🗃️ SQL Business Intelligence Analysis
-
+> 🌐 **Full portfolio:** [nishmapm43.github.io](https://nishmapm43.github.io)
 ## Business Problem
 A retail company needed answers to 10 key business questions 
 from their sales database — without any BI tool. Pure SQL.
